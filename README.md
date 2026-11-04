@@ -1,4 +1,5 @@
 # SanguiCore
+
 ### AI-Driven Blood Inventory Forecasting and Decision Support System
 
 SanguiCore is a Python and Streamlit-based blood inventory decision-support prototype designed to help monitor blood availability, analyse historical usage and identify potential inventory risks.
@@ -59,9 +60,11 @@ streamlit run app.py
 ```
 
 ## Dataset Information
+
 This project uses synthetic/sample datasets for academic demonstration. It is not connected to live hospital inventory systems.
 
 ## Limitations
+
 Forecasts are estimates, risk categories are rule-based indicators, and operational recommendations require human review. This prototype is not intended for clinical decision-making.
 
 ## Future Scope
@@ -69,7 +72,7 @@ Forecasts are estimates, risk categories are rule-based indicators, and operatio
 - Improved forecasting and validation
 - Automated alerts
 
-  ## Author
+## Author
 
 **Linga Abidha**
 
